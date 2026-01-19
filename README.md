@@ -5,3 +5,4 @@
 - hw_9_2_Словники,_набори,_кортежі.ipynb - Словники, набори, кортежі
 - hw_9_2_Control_Flow.ipynb - Конструкція if...else
 - hw_9_3_Цикл_for.ipynb - Цикл For
+- hw_9_3_Comprehensions.ipynb - Comprehensions в Python
