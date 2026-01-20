@@ -6,3 +6,4 @@
 - hw_9_2_Control_Flow.ipynb - Конструкція if...else
 - hw_9_3_Цикл_for.ipynb - Цикл For
 - hw_9_3_Comprehensions.ipynb - Comprehensions в Python
+- hw_9_3_Цикл_while.ipynb - Цикл While
