@@ -7,3 +7,4 @@
 - hw_9_3_Цикл_for.ipynb - Цикл For
 - hw_9_3_Comprehensions.ipynb - Comprehensions в Python
 - hw_9_3_Цикл_while.ipynb - Цикл While
+- hw_9_4_Функціїї_Основи.ipynb - Основи функцій 
